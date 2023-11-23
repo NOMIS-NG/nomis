@@ -1,0 +1,10 @@
+server:
+  port: 8686
+
+spring: 
+  datasource:
+    url: jdbc:postgresql://localhost:5432/glo_db
+    username: postgres
+    password: admin
+#    driver-class-name: org.postgresql.Driver
+
